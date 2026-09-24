@@ -1,0 +1,154 @@
+version: 2
+
+models:
+
+  - name: core_chart_of_accounts
+    columns:
+      - name: account_id
+        tests:
+          - not_null
+          - unique
+
+  - name: core_customers
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+          - unique
+
+  - name: core_vendors
+    columns:
+      - name: vendor_id
+        tests:
+          - not_null
+          - unique
+
+  - name: core_entities
+    columns:
+      - name: entity_id
+        tests:
+          - not_null
+          - unique
+
+  - name: core_cost_centers
+    columns:
+      - name: cost_center_id
+        tests:
+          - not_null
+          - unique
+
+  - name: core_sales
+    columns:
+      - name: sales_id
+        tests:
+          - not_null
+          - unique
+
+      - name: customer_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('core_customers')
+              field: customer_id
+
+  - name: core_accounts_receivable
+    columns:
+      - name: invoice_id
+        tests:
+          - not_null
+          - unique
+
+      - name: customer_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('core_customers')
+              field: customer_id
+
+  - name: core_accounts_payable
+    columns:
+      - name: invoice_id
+        tests:
+          - not_null
+          - unique
+
+      - name: vendor_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('core_vendors')
+              field: vendor_id
+
+  - name: core_general_ledger
+    columns:
+      - name: transaction_id
+        tests:
+          - not_null
+          - unique
+
+      - name: account_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('core_chart_of_accounts')
+              field: account_id
+
+      - name: cost_center_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('core_cost_centers')
+              field: cost_center_id
+
+      - name: entity_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('core_entities')
+              field: entity_id
+
+  - name: core_budget
+    columns:
+      - name: account_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('core_chart_of_accounts')
+              field: account_id
+
+      - name: cost_center_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('core_cost_centers')
+              field: cost_center_id
+
+  - name: core_forecast
+    columns:
+      - name: account_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('core_chart_of_accounts')
+              field: account_id
+
+      - name: cost_center_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('core_cost_centers')
+              field: cost_center_id
+
+  - name: core_sales_incremental
+    columns:
+      - name: sales_id
+        tests:
+          - not_null
+          - unique
+
+      - name: customer_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('core_customers')
+              field: customer_id

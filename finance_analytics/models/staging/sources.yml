@@ -1,0 +1,19 @@
+version: 2
+
+sources:
+  - name: raw
+    database: FINANCE_ANALYTICS
+    schema: RAW
+
+    tables:
+      - name: RAW_CHART_OF_ACCOUNTS
+      - name: RAW_COST_CENTERS
+      - name: RAW_ENTITIES
+      - name: RAW_CUSTOMERS
+      - name: RAW_VENDORS
+      - name: RAW_SALES
+      - name: RAW_ACCOUNTS_RECEIVABLE
+      - name: RAW_ACCOUNTS_PAYABLE
+      - name: RAW_GENERAL_LEDGER
+      - name: RAW_BUDGET
+      - name: RAW_FORECAST

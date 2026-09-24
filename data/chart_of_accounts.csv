@@ -1,0 +1,22 @@
+account_id,account_number,account_name,account_type,financial_statement
+ACC001,400100,Product Revenue,Revenue,Income Statement
+ACC002,400200,Service Revenue,Revenue,Income Statement
+ACC003,410100,Other Revenue,Revenue,Income Statement
+ACC004,500100,Materials,COGS,Income Statement
+ACC005,500200,Direct Labor,COGS,Income Statement
+ACC006,500300,Manufacturing Overhead,COGS,Income Statement
+ACC007,610100,Payroll Expense,Operating Expense,Income Statement
+ACC008,610200,Office Rent,Operating Expense,Income Statement
+ACC009,610300,Technology Expense,Operating Expense,Income Statement
+ACC010,610400,Marketing Expense,Operating Expense,Income Statement
+ACC011,610500,Travel Expense,Operating Expense,Income Statement
+ACC012,610600,Professional Services,Operating Expense,Income Statement
+ACC013,700100,Interest Income,Other Income,Income Statement
+ACC014,710100,Interest Expense,Other Expense,Income Statement
+ACC015,100100,Cash,Asset,Balance Sheet
+ACC016,110100,Accounts Receivable,Asset,Balance Sheet
+ACC017,120100,Inventory,Asset,Balance Sheet
+ACC018,200100,Accounts Payable,Liability,Balance Sheet
+ACC019,210100,Accrued Expenses,Liability,Balance Sheet
+ACC020,300100,Common Equity,Equity,Balance Sheet
+ACC021,310100,Retained Earnings,Equity,Balance Sheet

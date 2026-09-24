@@ -1,0 +1,101 @@
+vendor_id,vendor_name,vendor_category,city,state,payment_terms
+VEND0001,"Rodriguez, Figueroa and Sanchez",Facilities,Lake Curtis,CT,NET45
+VEND0002,"Mcclain, Miller and Henderson",Marketing,North Jefferyhaven,NJ,NET30
+VEND0003,"Johnson, Gonzalez and Santos",Facilities,Robinsonshire,IL,NET15
+VEND0004,Pacheco-Smith,Consulting,Lake Roberto,NC,NET15
+VEND0005,Moore-Bernard,Technology,Curtisfurt,MA,NET30
+VEND0006,Howard LLC,Marketing,Lindsaymouth,TX,NET15
+VEND0007,"Martinez, Nielsen and Miller",Equipment,Mariastad,NJ,NET60
+VEND0008,"Lee, Jones and Stanley",Marketing,Traciebury,GA,NET45
+VEND0009,James Group,Technology,Franciscostad,MI,NET30
+VEND0010,Santiago Ltd,Raw Materials,New Cynthiaside,VA,NET45
+VEND0011,"Sanchez, Ford and Nelson",Professional Services,Lake Mark,NJ,NET45
+VEND0012,Perez Inc,Facilities,Richardland,MA,NET60
+VEND0013,Gentry PLC,Facilities,Jasonfort,VA,NET45
+VEND0014,Wilkerson-Day,Consulting,West Donald,PA,NET15
+VEND0015,"Hoffman, Baker and Richards",Utilities,Coxberg,TX,NET15
+VEND0016,"Snyder, Campos and Callahan",Raw Materials,Lake Ernest,MA,NET45
+VEND0017,"Henderson, Brown and James",Consulting,Riceside,CO,NET45
+VEND0018,Frazier Inc,Consulting,Kaylamouth,NJ,NET15
+VEND0019,Carter and Sons,Technology,Smithview,IL,NET30
+VEND0020,"Gill, Romero and Rodriguez",Office Supplies,Meaganhaven,MA,NET30
+VEND0021,"Gonzalez, Brooks and Martin",Facilities,New Mariotown,NC,NET45
+VEND0022,Hickman LLC,Utilities,North John,IL,NET45
+VEND0023,"Arroyo, Miller and Tucker",Professional Services,Port Amandaberg,VA,NET45
+VEND0024,Keller PLC,Marketing,West Allison,IL,NET45
+VEND0025,"Henderson, Lewis and Ryan",Facilities,Lake Larry,CA,NET30
+VEND0026,"Santos, Kim and Holmes",Equipment,East Jeffreymouth,OH,NET30
+VEND0027,Chapman and Sons,Professional Services,North Chad,GA,NET60
+VEND0028,"Brown, Jones and Johnson",Office Supplies,Chadbury,CO,NET30
+VEND0029,Caldwell-Lewis,Transportation,Lake Selena,FL,NET15
+VEND0030,"Johnston, Sanchez and Kennedy",Marketing,Leeville,FL,NET15
+VEND0031,"Jordan, Henderson and Owens",Transportation,Lake Deniseville,NC,NET45
+VEND0032,Powell LLC,Facilities,East Jamesside,NJ,NET45
+VEND0033,Taylor-White,Marketing,Wrightland,IL,NET60
+VEND0034,Morton-Chase,Raw Materials,North Deniseside,CO,NET60
+VEND0035,Novak and Sons,Professional Services,South Todd,PA,NET30
+VEND0036,Hancock Inc,Marketing,South Aaron,OH,NET45
+VEND0037,Baker-Bowers,Consulting,Mitchellside,NC,NET60
+VEND0038,"Higgins, Moore and Phillips",Transportation,New Jillton,NJ,NET30
+VEND0039,"Edwards, Williams and Woods",Equipment,North Susan,GA,NET15
+VEND0040,York Inc,Technology,Lake Michellefurt,FL,NET15
+VEND0041,David PLC,Professional Services,New Brooke,IL,NET30
+VEND0042,"Miller, Sandoval and Cunningham",Raw Materials,Sarahborough,CA,NET15
+VEND0043,"Moran, Allen and Foster",Raw Materials,Stephenland,NC,NET60
+VEND0044,Ellis PLC,Equipment,North Amandahaven,PA,NET15
+VEND0045,Anderson-Bailey,Facilities,East Mikeburgh,IL,NET45
+VEND0046,Bass-Warner,Transportation,Lake Lisaport,MA,NET45
+VEND0047,"Garcia, Humphrey and Baker",Raw Materials,Lake Angelaview,NY,NET60
+VEND0048,Jacobs-Robbins,Technology,Lake Cynthia,OH,NET45
+VEND0049,Wagner-King,Equipment,North Cynthiaview,MI,NET30
+VEND0050,Smith and Sons,Equipment,Evanmouth,CO,NET15
+VEND0051,"Thornton, Hoffman and Rodriguez",Office Supplies,New Barry,FL,NET30
+VEND0052,Aguilar-Hernandez,Professional Services,North Kyle,VA,NET30
+VEND0053,Nolan and Sons,Equipment,Lake Curtis,MI,NET15
+VEND0054,"Henson, Russell and Oliver",Consulting,East Michelle,VA,NET60
+VEND0055,Keith Inc,Technology,Lake Sandra,MA,NET45
+VEND0056,Pham-Shields,Office Supplies,West Erik,NJ,NET15
+VEND0057,"Rodriguez, Brennan and Garrison",Marketing,East Lisa,CO,NET15
+VEND0058,Bailey-Hoover,Facilities,East Andrew,OH,NET60
+VEND0059,Ross LLC,Facilities,Port Joshuahaven,MI,NET30
+VEND0060,Frazier-Anthony,Professional Services,Sheilaville,IL,NET60
+VEND0061,White-Estes,Equipment,Benjaminchester,NY,NET45
+VEND0062,Chandler-Edwards,Equipment,South Rachelborough,FL,NET60
+VEND0063,Williams-Graham,Marketing,West Ryan,CO,NET30
+VEND0064,"Mccall, Hanson and Alvarado",Office Supplies,Lake Rachelhaven,NC,NET45
+VEND0065,Estrada-Nguyen,Utilities,Angelaborough,CO,NET60
+VEND0066,Ortega-Gray,Facilities,New Ashley,NJ,NET30
+VEND0067,Kelley-Smith,Facilities,Jasonshire,VA,NET15
+VEND0068,"Pena, Marshall and Ramos",Consulting,New Thomas,TX,NET30
+VEND0069,"Jackson, Miller and Robertson",Consulting,Clarencebury,NJ,NET15
+VEND0070,"Collins, Drake and Hernandez",Facilities,East Traceyland,OH,NET15
+VEND0071,Perry-Soto,Marketing,Lake Heather,MA,NET15
+VEND0072,Ross-Hernandez,Transportation,Port Michelleville,MA,NET30
+VEND0073,Robinson-Brock,Office Supplies,Williamsbury,IL,NET60
+VEND0074,Bryant Group,Marketing,Stephaniemouth,TX,NET30
+VEND0075,"Briggs, Mcclain and Simmons",Consulting,Merrittfort,CA,NET60
+VEND0076,Green-Wright,Marketing,Katiehaven,MI,NET60
+VEND0077,Sims-Hill,Raw Materials,Lake Justinview,NJ,NET15
+VEND0078,Flores-Fernandez,Facilities,East Jesse,IL,NET60
+VEND0079,"Hernandez, Lewis and Perry",Transportation,Amychester,NC,NET60
+VEND0080,Clark Group,Utilities,Steinshire,FL,NET15
+VEND0081,"Smith, Gilmore and Johnston",Facilities,Smithstad,CT,NET60
+VEND0082,Molina-Castaneda,Transportation,Medinaside,MI,NET15
+VEND0083,"Hurst, Freeman and Nelson",Marketing,Johnsonmouth,NJ,NET30
+VEND0084,"Shelton, Powell and Martin",Equipment,Calhounside,GA,NET30
+VEND0085,Meadows PLC,Raw Materials,North Dawnberg,NY,NET45
+VEND0086,White-Green,Utilities,Jasonmouth,NJ,NET15
+VEND0087,Juarez-Gray,Utilities,Kingland,MI,NET15
+VEND0088,Smith-Ryan,Technology,Jeffreyland,IL,NET15
+VEND0089,"Williams, Johnson and Wright",Facilities,New Elijahberg,CO,NET30
+VEND0090,Caldwell-Elliott,Professional Services,South Holly,NC,NET60
+VEND0091,Jackson-Lawson,Utilities,Port Loriport,NJ,NET60
+VEND0092,Lane LLC,Technology,Sandersborough,NY,NET60
+VEND0093,Vargas Ltd,Technology,North Heidi,NC,NET45
+VEND0094,Jefferson-Burke,Utilities,Port Tonyaton,PA,NET60
+VEND0095,Patel-Stanley,Equipment,New Deborahtown,IL,NET60
+VEND0096,Short-Garcia,Professional Services,Cynthiamouth,NJ,NET45
+VEND0097,"Hernandez, Thompson and Boyd",Marketing,Christinaside,CT,NET15
+VEND0098,Marshall-Petersen,Transportation,Marcusbury,CT,NET15
+VEND0099,Ramirez Group,Consulting,Port Steven,GA,NET30
+VEND0100,"Barnett, Rogers and Snyder",Technology,Hunterborough,TX,NET15
