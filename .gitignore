@@ -27,3 +27,11 @@ Thumbs.db
 # Python cache
 .pytest_cache/
 .mypy_cache/
+
+# Keys, tokens and local dbt profiles (never commit)
+*.p8
+*.pem
+*.key
+rsa_key*
+profiles.yml
+*.token
